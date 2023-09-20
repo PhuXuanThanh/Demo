@@ -29,4 +29,5 @@ x = np.linalg.solve(A, B)
 print("\nNghiệm của hệ phương trình:")
 print(x)
 '''
+print("PhuXuanThanh vua sua bai")
 #tranhung
