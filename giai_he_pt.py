@@ -30,4 +30,5 @@ print("\nNghiệm của hệ phương trình:")
 print(x)
 '''
 print("PhuXuanThanh vua sua bai")
+print('xxx')
 #tranhung
